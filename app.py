@@ -314,7 +314,7 @@ if audio and audio.get("bytes"):
         st.error(
             "⚠️ **GEMINI_API_KEY not found.** "
             "Set the `GEMINI_API_KEY` environment variable before running the app.\n\n"
-            "```bash\nexport GEMINI_API_KEY='your-key-here'\n```"
+            "```bash\nexport GEMINI_API_KEY='AIzaSyBS17tfL1he7lgT5VC6YYPPkZOQ4MIFJMUAIzaSyBS17tfL1he7lgT5VC6YYPPkZOQ4MIFJMU'\n```"
         )
     else:
         with st.spinner("🧠 AI analyzing voice segment..."):
