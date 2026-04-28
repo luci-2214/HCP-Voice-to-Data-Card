@@ -2,7 +2,7 @@
 
 > **Voice-to-Segment Architect** — A Command Center for healthcare campaign managers.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red) ![Gemini](https://img.shields.io/badge/Gemini-2.0--Flash-orange) ![Groq](https://img.shields.io/badge/Gemini-0.4.0--Flash-grey)
+![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red) ![Gemini](https://img.shields.io/badge/Gemini-2.0--Flash-orange) ![Groq](https://img.shields.io/badge/Groq-0.4.0--Flash-yellow)
 
 ## Features
 
