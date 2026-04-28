@@ -325,7 +325,7 @@ if "metrics" not in st.session_state:
 # Header banner
 st.markdown("""
 <div class="header-banner">
-    <h1>👨‍⚕️ HCP Persona Intelligence</h1>
+    <h1>👨‍⚕️ HCP Persona Intelligence by Sumit Yadav</h1>
     <p>Voice-to-Segment Architect &nbsp;|&nbsp; Powered by AI Analytics</p>
 </div>
 """, unsafe_allow_html=True)
