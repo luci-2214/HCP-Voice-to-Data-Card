@@ -214,7 +214,7 @@ def configure_gemini() -> bool:
 
 def get_gemini_model():
     """Return a Gemini 1.5 Flash model instance."""
-    return genai.GenerativeModel("gemini-2.0-flash")
+    return genai.GenerativeModel("gemini-2.0-flash-lite")
 
 
 # ──────────────────────────────────────────────
