@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#00796B"
+font = "sans serif"
+
+[server]
+headless = true
+enableXsrfProtection = true
