@@ -326,7 +326,7 @@ if "metrics" not in st.session_state:
 # Header banner
 st.markdown("""
 <div class="header-banner">
-    <h1>👨‍⚕️ HCP Persona Intelligence</h1>
+    <h1>👨‍⚕️ HCP Persona Intelligence by Sumit Yadav</h1>
     <p>Voice-to-Segment Architect &nbsp;|&nbsp; Powered by AI Analytics</p>
 </div>
 """, unsafe_allow_html=True)
@@ -565,7 +565,7 @@ st.markdown('<hr class="section-divider">', unsafe_allow_html=True)
 st.markdown(
     """
     <div style="text-align:center; color:var(--text-color); opacity:0.7; font-size:0.8rem; padding:1rem 0;">
-        Doceree AI Persona Dashboard &nbsp;•&nbsp; Built with Streamlit &amp; AI Analytics
+        Doceree AI Persona Dashboard &nbsp;•&nbsp; Built by Sumit Yadav
     </div>
     """,
     unsafe_allow_html=True,
