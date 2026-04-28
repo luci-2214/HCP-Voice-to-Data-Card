@@ -564,7 +564,7 @@ st.markdown('<hr class="section-divider">', unsafe_allow_html=True)
 st.markdown(
     f"""
     <div style="text-align:center; color:{TEXT_SECONDARY}; font-size:0.8rem; padding:1rem 0;">
-        Doceree AI Persona Dashboard &nbsp;•&nbsp; Built with Streamlit &amp; AI Analytics
+        Doceree AI Persona Dashboard &nbsp;•&nbsp; Made by Sumit Yadav
     </div>
     """,
     unsafe_allow_html=True,
